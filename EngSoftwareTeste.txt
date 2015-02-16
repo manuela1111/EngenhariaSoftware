@@ -1,0 +1,4 @@
+1 - Criar repositório no app instalado no pc (clicando no +)
+2 - Salva um arquivo txt na pasta do meu computador
+3 - edita esse arquivo com algo escrito para teste
+4 - no app github clica em show(uncommited changes) e coloca uma descrição do commit
