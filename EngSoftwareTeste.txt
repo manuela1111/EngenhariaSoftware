@@ -2,3 +2,18 @@
 2 - Salva um arquivo txt na pasta do meu computador
 3 - edita esse arquivo com algo escrito para teste
 4 - no app github clica em show(uncommited changes) e coloca uma descrição do commit
+5 - clica em commit
+6 - logo abaixo vai aparecer o arquivo (Unsynced changes)clica nele
+7 - clica no Publish REpository e coloca uma descrição
+	(caso não apareça a opção de publicar, é pq tem que clicar numa setinha azul abaixo e colocar seu login
+8 - vai no endereço https://github.com/manuela1111 e clica em repositório
+9 - clica no projeto e lá vai estar o txt
+10- clica no txt 
+
+Alterando e fazendo commit no doc
+
+1 -  no explorer, edite o txt no notpad++ salve
+2 - no app github clica em show(uncommited changes) e coloca uma descrição do commit
+3 - clique em Sync para sincronizar na web
+4 - e atualize a página no github, as alterações estarão lá
+
